@@ -6,4 +6,4 @@ model .exe menggunakan electron dan versi X1.6
 <br>
 Model .apk menggunakan java dan versi M1.1 
 <br>
-
+https://github.com/NeoNishikawa/ilovenime-model/releases/download/apk/iLoveNime-M1.1.1-release.apk
